@@ -1,76 +1,130 @@
 <div align="center">
 
-# Hi, I'm Muhammad Waqas 👋
+# Muhammad Waqas 👋
 
 ### Senior Software Developer | .NET & Enterprise Systems | AI Engineering
 
-Building secure enterprise applications, reliable integrations, and practical AI-assisted software solutions.
+Building secure enterprise applications, reliable integrations, and practical AI-assisted software.
 
-**Abu Dhabi, United Arab Emirates**
+📍 **Abu Dhabi, UAE** &nbsp; | &nbsp; [GitHub](https://github.com/CravingForAI)
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-CravingForAI-181717?style=flat-square&logo=github)](https://github.com/CravingForAI)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1967D2?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-0D9488?style=flat-square)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a software developer focused on designing, developing, integrating, and maintaining enterprise applications across the software development lifecycle. My background includes financial services workflows, CRM platforms, process automation, backend APIs, and database-driven systems.
+I design, develop, integrate, and maintain business-critical applications throughout the software development lifecycle. My experience includes financial-services workflows, CRM platforms, approval automation, database-driven applications, and system integrations.
 
-I am currently expanding my engineering portfolio into **AI-assisted decision support, LLM applications, retrieval-augmented generation (RAG), agent workflows, and AI evaluation**.
+My current learning and portfolio focus is **AI engineering**, including LLM applications, retrieval-augmented generation (RAG), agent workflows, evaluation, and responsible use of AI in enterprise software.
 
-- **Core engineering:** C#, ASP.NET MVC, ASP.NET Core Web API, REST APIs
-- **Data:** SQL Server, Entity Framework Core, Oracle and Sybase integration
-- **Frontend:** JavaScript, jQuery, Bootstrap, Razor
-- **Delivery:** Git, Bitbucket, CI/CD, release management, system integrations
-- **Current focus:** AI engineering and scalable enterprise application architecture
+- **Core development:** C#, ASP.NET MVC, ASP.NET Core Web API, Entity Framework Core
+- **Data and integration:** SQL Server, Oracle, Sybase, REST APIs
+- **Frontend:** JavaScript, jQuery, Razor, HTML, CSS, Bootstrap
+- **Engineering:** Git, Bitbucket, CI/CD, release management, application architecture
 
-## Tech Stack
+## 🧰 Technology Stack
 
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, .NET, ASP.NET MVC, ASP.NET Core Web API |
-| Data | SQL Server, EF Core, Oracle, Sybase |
-| Frontend | JavaScript, jQuery, HTML, CSS, Bootstrap, Razor |
-| Integration | REST APIs, system integration, workflow automation |
-| Engineering | Git, Bitbucket, CI/CD, software architecture, application security |
-| Exploring | LLMs, RAG, agent workflows, AI evaluation |
+<div align="center">
 
-## What I'm Building and Learning
+**Backend & APIs**
 
-### AI-Assisted Credit Assessment (Portfolio Concept)
-An explainable, human-in-the-loop financial decision-support application designed to explore deterministic rules, AI-assisted document analysis, audit trails, and reviewer workflows.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-2463EB?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/EF_Core-5C2D91?style=for-the-badge)
 
-**Focus:** ASP.NET Core Web API · SQL Server · Document Processing · Responsible AI
+**Databases & Integration**
 
-> Concept / work in progress. No source-code or production deployment claim is made here.
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Sybase](https://img.shields.io/badge/Sybase-3B556D?style=for-the-badge)
 
-### Enterprise Workflow and API Patterns
-Reusable patterns for approval workflows, audit logging, idempotent requests, authentication, and versioned REST APIs. These are suitable for independent demonstration projects that do not disclose employer source code.
+**Frontend & Delivery**
 
-### AI Engineering Learning Lab
-Practical experiments in prompting, RAG, tool integration, evaluation, and AI application security, with a focus on integrating AI services into .NET solutions.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=for-the-badge)
 
-## Public Projects
+</div>
 
-- **Zakat Calculator** — HTML-based calculator (add your exact repository link).
-- **Interactive App** — JavaScript application (add your exact repository link).
+## 🏗️ Engineering Focus
 
-> Update this section as new public repositories and demonstrations become available.
+| Enterprise Software | AI Engineering |
+| :--- | :--- |
+| Business workflows and approval routing | LLM application patterns and evaluation |
+| Backend APIs and system integrations | Retrieval-augmented generation (RAG) |
+| Database design and data processing | Agent workflows and tool integration |
+| Auditability, security, and release processes | Human-in-the-loop decision support |
 
-## GitHub Activity
+## 🚀 Public Repositories
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=CravingForAI&theme=github-dark-blue&hide_border=true)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> This is a third-party generated image. It may not always load. GitHub's native contribution graph remains the authoritative display of recorded contributions.
+### [Zakat Calculator](https://github.com/CravingForAI/Zakat_Calculator)
 
-## Connect
+A public HTML-based calculator for estimating zakat obligations.
 
-- [GitHub](https://github.com/CravingForAI)
-- LinkedIn: Add your public profile URL
-- Portfolio: Add your live portfolio URL
+**Primary technology:** HTML
+
+[View repository →](https://github.com/CravingForAI/Zakat_Calculator)
+
+</td>
+<td width="50%" valign="top">
+
+### [Interactive App](https://github.com/CravingForAI/Interactive-App)
+
+A JavaScript-based public application.
+
+**Primary technology:** JavaScript
+
+[View repository →](https://github.com/CravingForAI/Interactive-App)
+
+</td>
+</tr>
+</table>
+
+## 🔬 In Progress: Portfolio & Learning
+
+### AI-Assisted Credit Assessment
+
+**Status:** Portfolio concept / ongoing learning, not a completed or deployed product.
+
+Exploring a financial decision-support application with deterministic rules, AI-assisted document analysis, explainable outputs, audit trails, and human review.
+
+`ASP.NET Core Web API` · `SQL Server` · `Document Processing` · `Responsible AI`
+
+### Enterprise Architecture Patterns
+
+Exploring reusable designs for approval workflows, request idempotency, authorization, audit logging, and versioned APIs. Public examples will be independently developed and will not include confidential employer code or data.
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=CravingForAI&theme=github-compact&hide_border=true)](https://github.com/CravingForAI)
+
+</div>
+
+<sub>Activity graph is generated by a third-party service and may occasionally be unavailable. GitHub's native contribution calendar remains the primary source for recorded contributions.</sub>
+
+## 🤝 Connect
+
+- [GitHub Profile](https://github.com/CravingForAI)
+- Open to discussing enterprise .NET development, software architecture, integrations, and practical AI applications.
 
 ---
 
-<div align="center"><sub>Interested in enterprise software engineering, secure system integrations, and practical AI applications.</sub></div>
+<div align="center">
+<sub>Enterprise software engineering · Scalable APIs · Responsible AI</sub>
+</div>
